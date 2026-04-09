@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Core\\Henry.AI.Core.Host\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Henry.AI.Agent.Host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Agent\\Henry.AI.Agent.Host\\Henry.AI.Agent.Host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\Program.cs",
+              "RelativeDocumentMoniker": "Henry.AI.Core\\Henry.AI.Core.Host\\Program.cs",
+              "ToolTip": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\Program.cs",
+              "RelativeToolTip": "Henry.AI.Core\\Henry.AI.Core.Host\\Program.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:52:47.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json",
+              "ToolTip": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json",
+              "RelativeToolTip": "Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T16:05:40.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json",
+              "RelativeToolTip": "Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T16:05:37.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T16:04:16.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json",
+              "ToolTip": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json",
+              "RelativeToolTip": "Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T16:03:58.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json",
+              "RelativeToolTip": "Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T16:03:55.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T16:03:07.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Henry.AI.Agent.Host.csproj",
+              "DocumentMoniker": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Henry.AI.Agent.Host.csproj",
+              "RelativeDocumentMoniker": "Henry.AI.Agent\\Henry.AI.Agent.Host\\Henry.AI.Agent.Host.csproj",
+              "ToolTip": "C:\\Users\\rfcsp\\OneDrive\\Documentos\\Curso FIAP\\3 ano\\challenge_2025\\entrega_sprint_challenge\\mvp\\back\\back_henryai_sprint\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Henry.AI.Agent.Host.csproj",
+              "RelativeToolTip": "Henry.AI.Agent\\Henry.AI.Agent.Host\\Henry.AI.Agent.Host.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T21:52:18.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

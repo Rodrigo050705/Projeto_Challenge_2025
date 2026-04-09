@@ -1,0 +1,24 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.Henry.AI.Core.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+.idea
+.vs
+Henry.AI.Core.sln.DotSettings.user
+/Henry.AI.Core.Domain/bin
+/Henry.AI.Core.Domain/obj
+/Henry.AI.Core.Host/bin
+/Henry.AI.Core.Host/obj
+/Henry.AI.Core.Infrastructure/obj
+/Henry.AI.Core.Infrastructure/bin
+/Henry.AI.ExternalDependencies/bin
+/Henry.AI.ExternalDependencies/obj

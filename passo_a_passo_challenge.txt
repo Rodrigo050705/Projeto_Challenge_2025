@@ -1,0 +1,33 @@
+Passo a Passo - Henry.AI
+
+Obs.: Para rodar a aplicação, é necessário subir uma instância de mensageria.
+
+1º) RODAR O BACK-END
+- Dentro da pasta "back", abra a pasta "back_henryai" no visual studio;
+- Dentro da pasta "Henry.AI.Agent", clique com o botão direito na pasta "Henry.AI.Agent.Host"
+e logo em seguida em "Abrir no terminal" ;
+- Com o terminal aberto e carregado, digite: dotnet run --launch-profile http ;
+- Espere carregar ;
+
+DEPOIS
+
+- Dentro da pasta "Henry.AI.Core", clique com o botão direito na pasta "Henry.AI.Core.Host"
+e logo em seguida em "Abrir no terminal" ;
+- Com o terminal aberto e carregado, digite o comando: dotnet run --launch-profile http ;
+- Espere carregar
+
+2º) RODAR O FRONT-END
+- Dentro da pasta "front", abra a pasta "front_henryai" no vscode;
+- Abra o terminal do projeto, digite o comando: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass ;
+- Depois digite o comando: npm i ;
+- Por fim, digite o comando: npm run dev ;
+- Clique no link que levará ao projeto ;
+
+
+COMO TESTAR:
+- Depois de fazer o registro, selecione um repositório e clique em
+"Chat com a IA" ou "Usar esse repositório no chat";
+- Um chat com a IA será aberto na parte inferior da página; 
+- cole um código e clique no botão de enviar e aguarde a resposta;
+- Depois que a resposta for mostrada, clique em "Documentações";
+- Em "Documentações" é possível visulizar as documentações feitas e fazer alterações.

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\.env.sample||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Core\\Henry.AI.Core.Host\\.env.sample||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\README_ATLAS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README_ATLAS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\Henry.AI.Core.Host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Core\\Henry.AI.Core.Host\\Henry.AI.Core.Host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T15:33:50.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README_ATLAS.md",
+              "DocumentMoniker": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\README_ATLAS.md",
+              "RelativeDocumentMoniker": "README_ATLAS.md",
+              "ToolTip": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\README_ATLAS.md",
+              "RelativeToolTip": "README_ATLAS.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-14T15:24:56.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Henry.AI.Core.Host.csproj",
+              "DocumentMoniker": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\Henry.AI.Core.Host.csproj",
+              "RelativeDocumentMoniker": "Henry.AI.Core\\Henry.AI.Core.Host\\Henry.AI.Core.Host.csproj",
+              "ToolTip": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\Henry.AI.Core.Host.csproj",
+              "RelativeToolTip": "Henry.AI.Core\\Henry.AI.Core.Host\\Henry.AI.Core.Host.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T15:22:18.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json",
+              "ToolTip": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json",
+              "RelativeToolTip": "Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T15:21:11.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env.sample",
+              "DocumentMoniker": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\.env.sample",
+              "RelativeDocumentMoniker": "Henry.AI.Core\\Henry.AI.Core.Host\\.env.sample",
+              "ToolTip": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\.env.sample",
+              "RelativeToolTip": "Henry.AI.Core\\Henry.AI.Core.Host\\.env.sample",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-14T15:21:07.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Henry.AI.Core\\Henry.AI.Core.Host\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T15:20:59.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json",
+              "ToolTip": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json",
+              "RelativeToolTip": "Henry.AI.Core\\Henry.AI.Core.Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T15:22:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json",
+              "ToolTip": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json",
+              "RelativeToolTip": "Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T15:20:45.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json",
+              "ToolTip": "C:\\back_atlas_ready\\back_patched_textplain_clean_v2\\Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json",
+              "RelativeToolTip": "Henry.AI.Agent\\Henry.AI.Agent.Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T15:20:47.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

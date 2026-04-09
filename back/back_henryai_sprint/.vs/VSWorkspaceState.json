@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Henry.AI.Agent",
+    "\\Henry.AI.Agent\\Henry.AI.Agent.Host",
+    "\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties",
+    "\\Henry.AI.Core",
+    "\\Henry.AI.Core\\Henry.AI.Core.Host",
+    "\\Henry.AI.Core\\Henry.AI.Core.Host\\Properties"
+  ],
+  "SelectedNode": "\\Henry.AI.Agent\\Henry.AI.Agent.Host\\Properties\\launchSettings.json",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,25 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://0.0.0.0:5001",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+
+        "URL_CONSUL": "",
+        "URL_GATEWAY": "",
+
+        "SERVICE_ADVERTISE_HOST": "10.8.0.2",
+        "SERVICE_ADVERTISE_PORT": "5224",
+
+        "ServiceBus__ConnectionString": "",
+        "AppId": "Henry.AI.Agent",
+        "OpenAI__APIKey": ""
+      }
+      }
+    }
+  }
+

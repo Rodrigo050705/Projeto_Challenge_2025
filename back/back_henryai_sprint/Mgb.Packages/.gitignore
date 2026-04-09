@@ -1,0 +1,36 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.Packages.iml
+/modules.xml
+/projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/Mgb.Api/obj
+/Mgb.AppRegistration/obj
+/Mgb.Consul/obj
+/Mgb.Consul/bin
+/Mgb.Network/obj
+/Mgb.DependencyInjections/obj
+/Mgb.ServiceBus/obj
+/Mgb.ServiceBus/bin
+/Mgb.Network/bin
+/Mgb.Api/bin
+/Mgb.AppRegistration/bin
+/Mgb.DependencyInjections/bin
+/Mgb.DependencyInjections/nupkgs
+/Mgb.AppRegistration/nupkgs
+/Mgb.Consul/nupkgs
+/Mgb.Network/nupkgs
+/Mgb.Api/nupkgs
+/Mgb.ServiceBus/nupkgs
+.idea
+publish.txt
+Packages.sln.DotSettings.user
+
+

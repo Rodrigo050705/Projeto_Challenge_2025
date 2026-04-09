@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://0.0.0.0:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "URL_CONSUL": "",
+        "URL_GATEWAY": "",
+        "SERVICE_ADVERTISE_HOST": "10.8.0.2",
+        "SERVICE_ADVERTISE_PORT": "5224",
+        "Neo4j__Uri": "",
+        "Neo4j__User": "",
+        "Neo4j__Password": "",
+        "ServiceBus__ConnectionString": "",
+        "AppId": "Henry.AI.Core",
+        "URL_AGENT": "http://localhost:5001",
+        "MONGODB_URI": "mongodb+srv://rfcspi:senha@cluster0.2dxyb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "MONGODB_DB": "henry_ai"
+
+      }
+    }
+  }
+}

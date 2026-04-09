@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Henry.AI.Core.Host</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
+    <PackageReference Include="Neo4jClient" Version="5.1.20" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Henry.AI.Core.Infrastructure\Henry.AI.Core.Infrastructure.csproj" />
+    <ProjectReference Include="..\Henry.AI.Core.Domain\Henry.AI.Core.Domain.csproj" />
+    <ProjectReference Include="..\Henry.AI.ExternalDependencies\Henry.AI.ExternalDependencies.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.19.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="QuestPDF" Version="2024.7.0" />
+  </ItemGroup>
+</Project>
